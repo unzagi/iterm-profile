@@ -1,2 +1,2 @@
 # iterm-profile
-Repo for iterm profiles
+The iterm profile I use. 
